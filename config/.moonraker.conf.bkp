@@ -31,7 +31,6 @@ trusted_clients =
 
 [announcements]
 subscriptions = 
-	mainsail
 
 [update_manager]
 channel = dev
@@ -62,5 +61,6 @@ managed_services = sonar
 type = git_repo
 path = ~/printer_data
 origin = git@github.com:RobertFey/printer_data.git
+primary_branch = master
 is_system_service = False
 
