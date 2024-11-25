@@ -1,3 +1,5 @@
 *.stl
 *.STL
 printer-*.cfg
+logs/*
+!.gitkeep
