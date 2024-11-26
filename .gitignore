@@ -1,10 +1,10 @@
 *.stl
 *.STL
 printer-*.cfg
-**/logs
+logs
 *.log
+crowsnest.log
+klippy.log
+moonraker.log
 !.gitkeep
-logs/crowsnest.log
-logs/klippy.log
-logs/moonraker.log
 
