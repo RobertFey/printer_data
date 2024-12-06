@@ -8,3 +8,4 @@ klippy.log
 moonraker.log
 !.gitkeep
 *.db
+*.bkp
