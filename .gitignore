@@ -9,3 +9,4 @@ moonraker.log
 !.gitkeep
 *.db
 *.bkp
+gcodes
